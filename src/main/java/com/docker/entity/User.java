@@ -1,4 +1,4 @@
-package com.docker.DockerTest;
+package com.docker.entity;
 
 import javax.persistence.*;
 import javax.validation.constraints.Email;

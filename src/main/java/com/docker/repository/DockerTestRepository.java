@@ -1,5 +1,6 @@
-package com.docker.DockerTest;
+package com.docker.repository;
 
+import com.docker.entity.Product;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,5 +1,7 @@
-package com.docker.DockerTest;
+package com.docker.controller;
 
+import com.docker.service.DockerTestService;
+import com.docker.entity.Product;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

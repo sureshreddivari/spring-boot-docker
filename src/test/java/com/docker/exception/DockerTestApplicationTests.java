@@ -1,4 +1,4 @@
-package com.docker.DockerTest;
+package com.docker.exception;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;

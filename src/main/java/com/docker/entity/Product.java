@@ -1,4 +1,4 @@
-package com.docker.DockerTest;
+package com.docker.entity;
 
 import com.sun.istack.NotNull;
 
